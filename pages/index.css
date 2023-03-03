@@ -29,7 +29,7 @@
 @import url(../blocks/intro/__list-fat/intro__list-fat.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/__item/photo__item.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
