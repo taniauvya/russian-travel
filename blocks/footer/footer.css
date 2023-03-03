@@ -1,0 +1,32 @@
+.footer {
+  max-width: 1230px;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+  padding-left: 48px;
+  padding-bottom: 24px;
+}
+@media (max-width: 1023px) {
+  .footer {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer {
+    padding-left: 24px;
+  }
+}
+@media (max-width: 600px) {
+  .footer {
+    display: block;
+    max-width: 320px;
+    padding-left: 16px;
+    padding-bottom: 16px;
+  }
+}

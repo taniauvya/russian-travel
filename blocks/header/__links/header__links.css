@@ -1,0 +1,18 @@
+.header__links {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 18px;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  align-self: flex-end;
+}
+
+@media (max-width: 600px) {
+  .header__links {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

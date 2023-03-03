@@ -1,0 +1,26 @@
+.lead__item {
+  max-width: 984px;
+  margin: 0 auto;
+  
+  
+}
+@media (max-width: 1279px) {
+  .lead__item {
+    max-width: 928px;
+    width:100%
+    
+  }
+}
+@media (max-width: 1023px) {
+  .lead__item {
+    max-width: 768px;
+    padding: 0;
+  }
+}
+@media (max-width: 600px) {
+  .lead__item {
+    max-width: 320px;
+  }
+}
+
+

@@ -1,0 +1,25 @@
+.place__link {
+  max-width: 456px;
+  font-weight: 400;
+  font-size: 18px; 
+  line-height: 22px;
+  transition-duration: 0.6s; 
+  margin: 0;
+  color:#fff;
+}
+.place__link:hover{
+    opacity:0.3;
+}
+@media (max-width: 767px) {
+    .place__link{
+        max-width: 352px;
+    }
+}
+@media  (max-width: 600px) {
+    .place__link{
+        max-width: 288px;
+    }
+    
+}
+
+  
