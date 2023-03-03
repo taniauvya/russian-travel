@@ -12,9 +12,8 @@
     padding: left 16px;
   }
 }
-@media  (max-width: 767px) {
+@media (max-width: 767px) {
   .lead__caption {
     padding-left: 24px;
   }
 }
-

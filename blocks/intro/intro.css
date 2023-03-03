@@ -2,24 +2,22 @@
   max-width: 690px;
   padding: 92px 148px;
 }
-@media  (max-width:1023px) {
+@media (max-width: 1023px) {
   .intro {
     max-width: 690px;
-    padding:  92px 48px;
+    padding: 92px 48px;
   }
 }
 @media (max-width: 767px) {
   .intro {
     max-width: 720px;
-    padding:  88px 24px;
+    padding: 88px 24px;
   }
 }
-
 @media (max-width: 600px) {
   .intro {
-   max-width: 288px;
-  padding:  64px;
-  margin: 0 auto;
+    max-width: 288px;
+    padding: 64px;
+    margin: 0 auto;
   }
 }
-

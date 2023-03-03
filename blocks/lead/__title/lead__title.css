@@ -8,11 +8,10 @@
   text-align: center;
 }
 @media (max-width: 768px) {
-  .lead__title{
+  .lead__title {
     font-size: 80px;
   }
 }
-
 @media (max-width: 600px) {
   .lead__title {
     max-width: 288px;

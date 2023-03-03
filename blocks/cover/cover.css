@@ -2,7 +2,6 @@
   max-width: 1184px;
   margin: 0 auto;
   padding: 92px 0;
-  
 }
 @media (max-width: 1279px) {
   .cover {
@@ -12,13 +11,10 @@
 @media (max-width: 1023px) {
   .cover {
     max-width: 768px;
-    
   }
 }
-@media (max-width: 600px){
-    .cover{
-        max-width: 320px;
-        
-    }
-    
+@media (max-width: 600px) {
+  .cover {
+    max-width: 320px;
+  }
 }

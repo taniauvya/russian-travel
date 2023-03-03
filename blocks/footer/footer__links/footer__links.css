@@ -6,10 +6,7 @@
   padding-bottom: 24px;
   padding-left: 0;
 }
-@media (max-width: 767px) {
-  .footer__links {
-  }
-}
+
 @media (max-width: 600px) {
   .footer__links {
     flex-direction: column;

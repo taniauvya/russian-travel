@@ -18,7 +18,6 @@
     line-height: 46px;
   }
 }
-
 @media (max-width: 600px) {
   .place__title {
     max-width: 288px;

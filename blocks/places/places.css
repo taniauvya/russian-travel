@@ -16,14 +16,11 @@
   .places {
     max-width: 720px;
     gap: 50px;
-    
   }
 }
-
 @media (max-width: 600px) {
   .places {
     max-width: 320px;
     gap: 72px;
-    
   }
 }

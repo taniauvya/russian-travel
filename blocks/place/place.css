@@ -3,19 +3,18 @@
   display: grid;
   grid-template: repeat(2, auto) / minmax(auto, 460px) minmax(auto, 484px);
   gap: 48px 40px;
-  
 }
 
-@media  (max-width: 1023px) {
+@media (max-width: 1023px) {
   .place {
-    grid-template: repeat(2,auto) / minmax(auto, 440px) minmax(auto, 456px);
+    grid-template: repeat(2, auto) / minmax(auto, 440px) minmax(auto, 456px);
     gap: 48px 32px;
   }
 }
 
-@media  (max-width: 767px) {
+@media (max-width: 767px) {
   .place {
-    grid-template: repeat(3,auto) / minmax(auto, 340px) minmax(auto, 352px);
+    grid-template: repeat(3, auto) / minmax(auto, 340px) minmax(auto, 352px);
     gap: 48px 28px;
   }
 }
@@ -24,7 +23,7 @@
     display: flex;
     flex-direction: column;
     gap: 32px;
-    grid-template: repeat(4,auto) / auto;
+    grid-template: repeat(4, auto) / auto;
     width: 100%;
   }
 }
