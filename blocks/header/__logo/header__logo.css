@@ -2,7 +2,6 @@
   width: 176px;
   height: 52px;
 }
-
 @media (max-width: 600px) {
   .header__logo {
     width: 142px;

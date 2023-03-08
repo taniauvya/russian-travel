@@ -14,7 +14,6 @@
 }
 @media (max-width: 600px) {
   .place__url-heading {
-    max-width: 320px;
     line-height: 12px;
   }
 }

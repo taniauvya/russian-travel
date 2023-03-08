@@ -23,7 +23,5 @@
     display: flex;
     flex-direction: column;
     gap: 32px;
-    grid-template: repeat(4, auto) / auto;
-    width: 100%;
   }
 }

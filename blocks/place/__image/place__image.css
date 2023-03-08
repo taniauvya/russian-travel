@@ -4,7 +4,7 @@
 }
 
 @media (max-width: 1023px) {
-  .place__image.css {
+  .place__image {
     max-width: 440px;
     max-height: 440px;
   }
@@ -17,8 +17,6 @@
 }
 @media (max-width: 600px) {
   .place__image {
-    max-width: 288px;
-    max-height: 216px;
-    width: 100%;
+    max-width: 600px;
   }
 }

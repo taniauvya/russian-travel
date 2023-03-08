@@ -8,14 +8,3 @@
     width: 100%;
   }
 }
-@media (max-width: 1023px) {
-  .lead__item {
-    max-width: 768px;
-    padding: 0;
-  }
-}
-@media (max-width: 600px) {
-  .lead__item {
-    max-width: 320px;
-  }
-}

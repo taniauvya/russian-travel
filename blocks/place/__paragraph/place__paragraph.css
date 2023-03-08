@@ -5,8 +5,8 @@
   margin: 0;
   padding: 0;
 }
-@media (max-width: 767) {
-  .place__pragraph {
+@media (max-width: 767px) {
+  .place__paragraph {
     font-size: 16px;
     line-height: 26px;
   }
