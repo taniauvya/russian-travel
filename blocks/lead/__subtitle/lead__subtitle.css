@@ -14,7 +14,7 @@
 }
 @media (max-width: 680px) {
   .lead__subtitle {
-    padding-bottom: 36px;
+    padding-bottom: 40px;
     font-size: 16px;
     line-height: 20px;
   }

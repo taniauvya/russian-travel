@@ -12,10 +12,12 @@
 
 @media (max-width: 600px) {
   .cover__title {
-    /* max-width: 288px; */
+    padding-left: 34px;
+    padding-right: 42px;
+    padding-bottom: 16px;
     font-size: 32px;
     line-height: 35px;
-    padding: 4px 0px 10px;
+    
     max-width: 255px;
   }
 }

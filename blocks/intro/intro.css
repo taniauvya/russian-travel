@@ -5,23 +5,21 @@
 @media (max-width: 1023px) {
   .intro {
     max-width: 690px;
-    padding: 92px 33px;
+    padding: 92px 38px;
   }
 }
 @media (max-width: 767px) {
   .intro {
     max-width: 720px;
-    padding: 88px 24px;
+    padding: 88px 20px;
   }
 }
 @media (max-width: 600px) {
   .intro {
-    /* max-width: 288px; */
-    /* padding: 64px 16px; */
     padding-bottom: 62px;
     padding-right: 15px;
     padding-top: 64px;
-    padding-left: 15px;
+    padding-left: 17px;
     margin: 0 auto;
   }
 }
