@@ -10,14 +10,3 @@
 .place__link:hover {
   opacity: 0.3;
 }
-@media (max-width: 767px) {
-  .place__link {
-    max-width: 352px;
-  }
-}
-@media (max-width: 600px) {
-  .place__link {
-    max-width: 288px;
-    padding-top: 8px;
-  }
-}

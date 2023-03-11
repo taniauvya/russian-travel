@@ -5,14 +5,9 @@
   line-height: 20px;
   color: #aaa;
   letter-spacing: 2px;
+  margin: 0;
 }
-
-@media (max-width: 767px) {
-  .place__url-heading {
-    max-width: 352px;
-  }
-}
-@media (max-width: 600px) {
+@media (max-width: 1279px) {
   .place__url-heading {
     line-height: 12px;
   }

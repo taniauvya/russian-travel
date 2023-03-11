@@ -8,15 +8,8 @@
     gap: 25px;
   }
 }
-@media (max-width: 786px) {
-  .place__text {
-    gap: 20px;
-  }
-}
 @media (max-width: 600px) {
   .place__text {
-    padding-left: 16px;
-    padding-right: 16px;
-    gap: 25px;
+    padding: 0 16px;
   }
 }

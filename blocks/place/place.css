@@ -5,20 +5,20 @@
   gap: 48px 40px;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1279px) {
   .place {
     grid-template: repeat(2, auto) / minmax(auto, 440px) minmax(auto, 456px);
     gap: 48px 32px;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1023px) {
   .place {
-    grid-template: repeat(3, auto) / minmax(auto, 340px) minmax(auto, 352px);
+    grid-template: repeat(2, auto) / minmax(auto, 340px) minmax(auto, 352px);
     gap: 48px 28px;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 767px) {
   .place {
     display: flex;
     flex-direction: column;
